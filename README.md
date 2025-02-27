@@ -30,12 +30,6 @@ source venv/bin/activate
 pip install -r requirements.txt
 ```
 
-## Development
-
-- Use `black` for code formatting
-- Use `flake8` for linting
-- Run tests with `pytest`
-
 ## Project Structure
 
 ```
